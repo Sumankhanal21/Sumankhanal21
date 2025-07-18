@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumankhanal21" alt="sumankhanal21" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Web Development**
+- 🌱 Passionate Programmer
 
-- 💬 Ask me about **Programming logic**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **parbatkhanal73@gmail.com**
 
-- ⚡ Fun fact **I write code that sometimes even surprises me.**
+- ⚡ Everything begins with an idea 💡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
